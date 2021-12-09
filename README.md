@@ -6,5 +6,7 @@
 
 🖨️ [Link do mojej strony](https://makowskitomasz.github.io/)
 
+🧮 [Link do forka, który mnie zainteresował](https://github.com/makowskitomasz/TrojanNet)
+
 ## Chciałem opowiedzieć o moim życiu przez ostatnie miesiące
 Byłem w **Hiszpanii** ale to już nie jest ta **Hiszpania** co kiedyś, to jest ciepła **Hiszpania**, fajna **Hiszpania**, słoneczna **Hiszpania** ale nie ma takiego bezpieczeństwa jak w tej **Hiszpanii** kiedyś.
