@@ -1,7 +1,20 @@
-# WITAM
-## Moje readme
-📱 123456789
+## 💬 About me
+#### Studying Computer Science and Artificial Intelligence at [AGH University of Krakow](https://www.agh.edu.pl) in Cracow, Poland
+#### Former Member of The Board at [AGH Code Industry Research Group](https://www.skn.agh.edu.pl/kolo/agh-code-industry-coin/)
 
-📧 makowskit@student.agh.edu.pl
+## :computer: Projects
 
-🖨️ [Link do mojej strony](https://makowskitomasz.github.io/)
+### LogoToma Language
+#### https://github.com/vLesio/logotoma
+An interpreter written by us for the university project. Its purpose is to program spaceship called MakoLot, which can paint the space it's flying through with beautiful colors and shapes.
+####
+Solving Machine Learning problems on Kaggle, my solutions can be find in the link above
+## 📬 Contact
+- Feel free to contact me here, on GitHub
+- Private email - t.makowski02@gmail.com
+- University email - makowski@student.agh.edu.pl
+## 🧗 Hobbies
+- doing Sport (especially volleyball) 🏐
+- Watching Sport Competitions 🏆
+- Mountain hiking ⛰️
+- Travelling 🌎
