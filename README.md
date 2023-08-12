@@ -19,3 +19,4 @@ Solving Machine Learning problems on Kaggle, my solutions can be find in the lin
 - Watching Sport Competitions 🏆
 - Mountain hiking ⛰️
 - Travelling 🌎
+- Reading books 📖
