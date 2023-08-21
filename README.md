@@ -8,7 +8,7 @@
 #### https://github.com/vLesio/logotoma
 An interpreter written by us for the university project. Its purpose is to program spaceship called MakoLot, which can paint the space it's flying through with beautiful colors and shapes.
 ### Kaggle
-####
+#### https://github.com/makowskitomasz/Kaggle
 Solving Machine Learning problems on Kaggle, my solutions can be find in the link above
 ## 📬 Contact
 - Feel free to contact me here, on GitHub
