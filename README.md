@@ -13,7 +13,7 @@ Solving Machine Learning problems on Kaggle, my solutions can be find in the lin
 ## 📬 Contact
 - Feel free to contact me here, on GitHub
 - Private email - t.makowski02@gmail.com
-- University email - makowski@student.agh.edu.pl
+- University email - makowskit@student.agh.edu.pl
 ## 🧗 Hobbies
 - doing Sport (especially volleyball) 🏐
 - Watching Sport Competitions 🏆
